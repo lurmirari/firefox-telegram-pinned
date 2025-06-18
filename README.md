@@ -6,7 +6,7 @@
 ![Add-on users](https://img.shields.io/amo/users/{9124fe9c-aef5-4675-84a1-b85fa15af007})
 ![License](https://img.shields.io/github/license/lurmirari/firefox-telegram-pinned)
 
-A Firefox extension to open or toggle a pinned tab with WhatsApp Web within it. This extension also adds a shortcut, and a button toggle within the toolbar.
+A Firefox extension to open or toggle a pinned tab with Telegram Web within it. This extension also adds a shortcut, and a button toggle within the toolbar.
 
 [![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-GB/firefox/addon/telegram-pinned/)
 
